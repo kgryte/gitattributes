@@ -1,6 +1,6 @@
 {
   "name": "@kgryte/gitattributes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates a .gitattributes file.",
   "author": {
     "name": "Athan Reines",
