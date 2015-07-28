@@ -231,7 +231,7 @@ describe( 'async', function tests() {
 				'encoding': 'utf8'
 			});
 
-			fpath2 = path.join( path.resolve( __dirname, '../lib/default' ), '.gitattributes' );
+			fpath2 = path.join( path.resolve( __dirname, '../lib/default' ), 'gitattributes' );
 			f2 = fs.readFileSync( fpath2, {
 				'encoding': 'utf8'
 			});
